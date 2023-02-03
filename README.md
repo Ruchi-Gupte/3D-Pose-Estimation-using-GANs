@@ -3,6 +3,9 @@ This repository contains all the necessary files required to implement  3-D pose
 
 Team: Sharon Shaji, Ruchi Gupte, Jasleen Dhanoa, Swati Gupta, Manasa Sathyan
 
+Presentation: [Youtube Link](https://youtu.be/Sa2Q6pwWVOo)
+
+
 ## Overview
 This project aims to generate visually intuitive 3 Dimensional Pose estimations for humans from 2D RGB images. Most 3D pose estimation solutions require the use of 3D datasets, and a method that can convert 2D images to 3D key joint positions using only a 2D dataset requires additional algorithms and methods to accomplish the task. We achieve this by breaking down our project into three intermediate steps, namely (i) 2D key-point generation, (ii) conversion of 2D to 3D poses using Generative Adversarial Networks (GANs), and (iii) rendering the generated 3D poses for visually informative results. 
 
